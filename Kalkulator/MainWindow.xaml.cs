@@ -18,9 +18,10 @@ namespace Kalkulator
 {
     public partial class MainWindow : Window //Не смог реализовать "С"(удаление одного символа) и .
     {
-        string leftop = "";    // Левый операнд
-        string operation = ""; // Знак операции
-        string rightop = "";   // Правый операнд
+        string leftop = "";
+        string operation = "";
+        string rightop = "";
+        string cislo = "";
 
         public MainWindow()
         {

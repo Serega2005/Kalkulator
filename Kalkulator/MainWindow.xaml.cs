@@ -21,7 +21,6 @@ namespace Kalkulator
         string leftop = "";
         string operation = "";
         string rightop = "";
-        string cislo = "";
 
         public MainWindow()
         {
